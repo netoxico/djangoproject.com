@@ -1,6 +1,6 @@
 akismet==0.2.0
 certifi==14.05.14
-Django==1.7.7
+Django==1.8c1
 django-contact-form==1.0
 django-hosts==1.1
 django-push==0.6.1
